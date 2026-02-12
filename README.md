@@ -59,3 +59,19 @@ To set units to feet in both CAD and Revit:
 
 **Would you like me to generate a specific furniture layout for a 500 sq. ft. 1BHK following these Vastu rules?**
 
+
+### 1BHK Project: Technical Overview
+
+Based on the **BIM Portfolio**, here is the breakdown of the tools, outputs, and knowledge applied to the 1BHK design:
+
+* 
+**Tools Used:** The workflow integrates **AutoCAD** for precise 2D drafting, **Revit** for 3D BIM modeling and coordination, and **Excel** for data-driven calculations.
+
+
+* 
+**Key Outputs:** The project generated a **2D Top View** with Architectural units in feet, a detailed **3D Model**, color-coded **Room Name Legends**, and comprehensive **Schedules** for doors and windows.
+
+
+* 
+**Knowledge Applied:** The design adheres to **RERA** mandates for Net Carpet Area calculations, **Building Bye-laws** for ceiling heights and ventilation, and **Vastu Shastra** for the strategic placement of the kitchen and master bedroom.
+
